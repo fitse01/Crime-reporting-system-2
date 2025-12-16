@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Adama City CRS",
+  "description": "A comprehensive Crime Report System for Adama City, featuring a public reporting portal and a secure officer dashboard for incident management and analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
